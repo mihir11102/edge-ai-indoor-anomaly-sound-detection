@@ -1,4 +1,0 @@
-1. Connect device using edge-impulse-data-forwarder
-2. Start live classification
-3. Generate abnormal sound (tap/knock)
-4. Observe prediction output
