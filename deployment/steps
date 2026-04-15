@@ -1,0 +1,5 @@
+1. Connect XIAO ESP32S3 via USB
+2. Run edge-impulse-data-forwarder
+3. Collect data
+4. Train model in Edge Impulse
+5. Deploy quantized model to device
